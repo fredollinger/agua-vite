@@ -4,7 +4,8 @@
   "description": "test bed for vite tool",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello-world": "echo \"Hello World\""
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fredollinger/agua-vite/issues"
   },
-  "homepage": "https://github.com/fredollinger/agua-vite#readme"
+  "homepage": "https://github.com/fredollinger/agua-vite#readme",
+  "devDependencies": {
+    "esbuild": "0.20.2"
+  }
 }

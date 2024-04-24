@@ -8,4 +8,6 @@ Used to test the vite framework.
 
 * Link to Metamask Vite https://docs.metamask.io/wallet/concepts/wallet-interoperability/#eip-6963-interfaces
 
+* ESBuild Tutorial: https://esbuild.github.io/getting-started/
 
+* Mastering NPM Scripts: https://dev.to/paulasantamaria/mastering-npm-scripts-2chd?signin=true
