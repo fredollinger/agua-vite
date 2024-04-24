@@ -1,0 +1,19 @@
+{
+  "name": "agua-vite",
+  "version": "0.0.1",
+  "description": "test bed for vite tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredollinger/agua-vite.git"
+  },
+  "author": "Frederick Ollinger",
+  "license": "BSD2",
+  "bugs": {
+    "url": "https://github.com/fredollinger/agua-vite/issues"
+  },
+  "homepage": "https://github.com/fredollinger/agua-vite#readme"
+}
